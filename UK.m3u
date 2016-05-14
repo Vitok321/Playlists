@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,UK: ITV 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/638.ts
+#EXTINF:-1,UK: ITV 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/639.ts
+#EXTINF:-1,UK: ITV 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/640.ts
+#EXTINF:-1,UK: ITV 4
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/641.ts
+#EXTINF:-1,UK: ITV BE
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2787.ts
+#EXTINF:-1,UK: ITV Encore
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2786.ts
+#EXTINF:-1,UK: BBC 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/633.ts
+#EXTINF:-1,UK: BBC 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/634.ts
+#EXTINF:-1,UK: BBC 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/635.ts
+#EXTINF:-1,UK: BBC 4
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/636.ts
+#EXTINF:-1,UK: BBC Entertainment
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2987.ts
+#EXTINF:-1,UK: BBC Red Button
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2960.ts
+#EXTINF:-1,UK: BBC One Wales
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2778.ts
+#EXTINF:-1,Uk: BBC News
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2803.ts
+#EXTINF:-1,UK: SKY News
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2121.ts
+#EXTINF:-1,UK: CNN International Europe
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2783.ts
+#EXTINF:-1,UK: Bloomberg TV
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2804.ts
+#EXTINF:-1,UK: Euronews
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1897.ts
+#EXTINF:-1,UK: Fox News
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2797.ts

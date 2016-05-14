@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,BE: RTBF la Une HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1939.ts
+#EXTINF:-1,BE: RTBF la Deux HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1938.ts
+#EXTINF:-1,BE: RTBF la Trois HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1934.ts
+#EXTINF:-1,BE: 2BE
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3433.ts
+#EXTINF:-1,BE: RTL TVI HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2380.ts
+#EXTINF:-1,BE: Plug RTL HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2379.ts
+#EXTINF:-1,BE: Club RTL
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1933.ts
+#EXTINF:-1,BE: Acht
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3431.ts
+#EXTINF:-1,BE: Vijf
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3432.ts
+#EXTINF:-1,BE: Een HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2508.ts
+#EXTINF:-1,BE: Syfy Benelux
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3003.ts
+#EXTINF:-1,BE: KetNet
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2509.ts

@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,POR: RTP 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1222.ts
+#EXTINF:-1,Por: RTP 1 (Back Up)
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2593.ts
+#EXTINF:-1,POR: RTP 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1223.ts
+#EXTINF:-1,POR: RTP 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1648.ts
+#EXTINF:-1,POR: RTP Internacional
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2532.ts
+#EXTINF:-1,POR: RTP Africa
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2531.ts
+#EXTINF:-1,POR: RTP Madeira
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1649.ts
+#EXTINF:-1,Por: RTP ACORES
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1650.ts
+#EXTINF:-1,Por: SIC
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1647.ts
+#EXTINF:-1,Por: SIC K
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1646.ts
+#EXTINF:-1,Por: SIC Radical
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1643.ts
+#EXTINF:-1,Por: SIC NOTICIAS
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1644.ts
+#EXTINF:-1,Por: TVI
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1245.ts
+#EXTINF:-1,Por: TVI 24
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1244.ts
+#EXTINF:-1,POR: TVC 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1224.ts
+#EXTINF:-1,POR: TVC 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1225.ts
+#EXTINF:-1,POR: TVC 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1226.ts
+#EXTINF:-1,POR: TVC 4
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1227.ts
+#EXTINF:-1,POR: Syfy Universal
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2530.ts
+#EXTINF:-1,POR: SportTV 1 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/925.ts
+#EXTINF:-1,Por: SportTV 1 SD (Back Up)
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2594.ts
+#EXTINF:-1,POR: SportTV 2 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/926.ts
+#EXTINF:-1,POR: SportTV 3 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/912.ts
+#EXTINF:-1,POR: SportTV 4 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/910.ts
+#EXTINF:-1,POR: SportTV 5 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/911.ts
+#EXTINF:-1,Por: TVI Reality (A Quinta)
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2596.ts
+#EXTINF:-1,POR: Vevo 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2504.ts
+#EXTINF:-1,POR: Vevo 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2503.ts
+#EXTINF:-1,POR: Vevo 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2502.ts
+#EXTINF:-1,Por: AXN HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1265.ts
+#EXTINF:-1,Por: AXN WHITE HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1264.ts
+#EXTINF:-1,Por: AXN BLACK HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1266.ts
+#EXTINF:-1,Por: FOX HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1659.ts
+#EXTINF:-1,POR: Fox Crime HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1243.ts
+#EXTINF:-1,POR: FOX Life HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2410.ts
+#EXTINF:-1,POR: CM TV
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2369.ts
+#EXTINF:-1,POR: TV Globo
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1247.ts
+#EXTINF:-1,POR: TV Globo Premium
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3255.ts
+#EXTINF:-1,Por: TV SERIES
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1246.ts
+#EXTINF:-1,Por: CINE MUNDO TV
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1256.ts
+#EXTINF:-1,Por: Canal de Historia
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1259.ts
+#EXTINF:-1,Por: CANAL PANDA
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1258.ts
+#EXTINF:-1,Por: Canal Hollywood
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1656.ts
+#EXTINF:-1,Por: DISNEY Channel
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1663.ts
+#EXTINF:-1,Por: DISNEY JUNIOR
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1662.ts
+#EXTINF:-1,Por: NICKELODEON
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1251.ts
+#EXTINF:-1,Por: Cartoon Network
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1257.ts
+#EXTINF:-1,Por: A BOLA TV
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1667.ts
+#EXTINF:-1,Por: Eurosport HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1660.ts
+#EXTINF:-1,Por: SPORTING TV
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1248.ts
+#EXTINF:-1,POR: BENFICA TV 1 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1262.ts
+#EXTINF:-1,Por: Benfica 1 SD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2595.ts
+#EXTINF:-1,Por: BENFICA TV 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1261.ts
+#EXTINF:-1,Por: PORTO CANAL
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1249.ts
+#EXTINF:-1,Por: National Geographic Channel HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1252.ts
+#EXTINF:-1,POR: Discovery Channel
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1664.ts
+#EXTINF:-1,Por: ODISSEIA
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/1250.ts

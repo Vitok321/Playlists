@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,CH: RSI La 1 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/917.ts
+#EXTINF:-1,CH: RSI La 2 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/918.ts
+#EXTINF:-1,CH: SRF 1 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3366.ts
+#EXTINF:-1,CH: SRF Zwei(2) HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/3367.ts
+#EXTINF:-1,CH: TELECLUB STAR
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2876.ts
+#EXTINF:-1,CH: TELECLUB SPORT 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2877.ts
+#EXTINF:-1,CH: TELECLUB Sport 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2951.ts
+#EXTINF:-1,CH: TELECLUB PRIME
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2878.ts
+#EXTINF:-1,CH: TELECLUB CINEMA
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2879.ts

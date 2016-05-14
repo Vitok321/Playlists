@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,VEVO MUSIC 1
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2152.ts
+#EXTINF:-1,VEVO MUSIC 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/440.ts
+#EXTINF:-1,VEVO MUSIC 3
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/441.ts
+#EXTINF:-1,ISR: Mair Tv
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2659.ts
+#EXTINF:-1,ISR: Hidabroot
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2660.ts
+#EXTINF:-1,ISR: IL LAND
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2662.ts
+#EXTINF:-1,ISR: Channel 2 Keshet
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2551.ts
+#EXTINF:-1,ISR: Channel 2
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2554.ts
+#EXTINF:-1,ISR: Music 24 HD
+http://tv.supertv4u.eu:8000/live/viktor/cdvdAILENL/2555.ts
